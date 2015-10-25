@@ -1,5 +1,5 @@
-# Lyle A. Stewart
-# Getting and Cleaning Data Course Assignment
+### Lyle A. Stewart
+### Getting and Cleaning Data Course Assignment
 
 the run_analysis.R code will do the following 
 
