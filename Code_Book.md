@@ -9,7 +9,7 @@ This code book will summarize the data fields in the `tidy.txt` analysis
 ## Identifiers
 
 - `subject` - This shows the ID of the 30 test subjects that are analyzed over 6 activities
-- `activity`- This corresponds to one of the 6 activities that the subjects were analyzed on
+- `activity`- This corresponds to 6 activities that the subjects were analyzed on
 
 ## Measurements 
 
